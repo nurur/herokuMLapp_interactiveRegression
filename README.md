@@ -5,7 +5,7 @@ If you want to try by yourself, download the files of this repo to run the 'inte
 Otherwise, you can check out the app hosted at Heroku :  https://mlapp-regression-interactive.herokuapp.com/
 
 
-To run the app from your machine, follow the steps:
+Follow the steps below to run the app from your machine:
 
 Step 1 : Open  a terminal
 
