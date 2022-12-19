@@ -1,5 +1,5 @@
 # herokuMLapp_interactiveRegression
-Interactive Linear Regression : An univariate, regression web app which lets the user choose the range of the single predictor, X   
+Interactive Linear Regression : An univariate, regression web app which lets the user choose the range of the single predictor, X.
 
 If you want to try by yourself, download the files of this repo to run the 'interactiveRegression' Streamlit app.
 Otherwise, you can check out the app hosted at Heroku :  https://mlapp-regression-interactive.herokuapp.com/
@@ -20,4 +20,4 @@ Step 5 : At the command propmt type : streamlit run main.py, where 'main.py' is 
 
 The steps above are the quickest and simplest to run the app. 
 
-The safest way to run the app is to create a python enviromeent and do everything within this environment.       
+The best way to run the app is to create a python enviromeent and do everything within this environment.       
